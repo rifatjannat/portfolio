@@ -1,0 +1,173 @@
+.title{
+    font-size: 45px;
+    font-weight: 800;
+    font-style: normal;
+}
+span{
+    color: #FD6E0A;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 200px;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+ul li{
+    margin-left: 50px;
+}
+.st-btn{
+    background-color: #FD6E0A;
+    border-radius: 5px;
+    height: 65px;
+    width: 150px;
+    border: none;
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+}
+/* *{  margin: 0px; */
+    {font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.sub-title{
+    font-size: 45px;
+    font-weight: 600;
+    color: #474747;
+}
+.title-name{
+    font-size: 85px;
+    font-weight: 700;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.banner{
+    display: flex;
+    align-items: center;
+    padding: 0px 0px 0px 200px;background-image: url('../images/header_bg.png');
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+.banner-text{
+    margin-right: 150px;
+
+}
+.button-class{
+    display: flex;
+    margin-top: 30px;
+}
+.btn-download{
+    margin-right: 30px;
+}
+.btn-outline{
+    height: 64px;
+    color: #FD6E0A;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 5px;
+    border: 1px solid #FD6E0A;
+    background-color: #ffffff00;
+    padding: 0px 25px;
+}
+header{
+    background-color: #fff8f3;
+    background-image: url('../images/developer.png');
+    background-repeat: no-repeat;
+}
+.about{
+    margin: 150px 200px;
+    padding: 130px 150px;
+    background-color: #fff8f3;
+    border-radius: 10px;
+}
+.about-div{
+    text-align: center;
+}
+.about-title{
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    color: #181818;
+}
+.about-para{
+    font-size: 18px;
+}
+.ghonta{
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-around;
+}
+choto{
+    font-size: 20px;
+    color: #757575;
+}
+boro{
+    font-size: 20px;
+    color: #474747;
+    font-weight: 700;
+}
+/* what i do */
+.what-i-do{
+    text-align: center;
+    margin: 130px 200px;
+}
+.what-title{
+   font-size: 35px;
+   
+   font-weight: 700;
+   color: #181818;  
+}
+.what-paragraph{
+   text-align: center;
+   font-size: 18px;
+   font-weight: 400;
+   color: #757575;
+   padding: 30px 100px; 
+}
+.skill{
+display: flex;
+margin-top: 50px;
+}
+    
+
+.skill-para{
+    font-size: 16px;
+    font-weight: 400;
+    color: #757575;
+    padding: 20px 30px;
+}
+.skill-father{
+    border-radius: 5px;
+    background: #fff;
+    box-shadow: 0px 6px 50px 0px rgba(0,0,0,0.06);
+    padding: 30px;
+    margin-right: 20px;
+}
+.skill-title{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+/* this is resume section */
+.resume{
+    margin: 0px 200px;
+}
+.Fatther-of-resume{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.son-of-resume{
+    /* display: flex; */
+    /* justify-content: space-between; */
+    /* margin-top: 100px; */
+}
+.resume-title{
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+
+
